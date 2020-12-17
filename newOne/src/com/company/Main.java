@@ -31,5 +31,8 @@ public class Main {
         Pets cat = new Pets("Garfield","cat");
         System.out.println(cat);
 
+        Potwory pot1 = new Potwory("Piotrek", "Czerwony", 3);
+        System.out.println(pot1);
+
     }
 }

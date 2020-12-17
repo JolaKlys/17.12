@@ -11,5 +11,9 @@ public class Main {
 
 
         Person p1= new Person("Sam","Chicago");
+
+        String result = p1.greetings();
+
+        System.out.println(result);
     }
 }

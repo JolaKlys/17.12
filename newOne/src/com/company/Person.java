@@ -17,4 +17,9 @@ public class Person {
     public String getCity() {
         return city;
     }
+
+    public String  greetings (){
+       return String.format(name+ " comes from "+ city);
+
+    }
 }

@@ -28,5 +28,8 @@ public class Main {
         Pets dog = new Pets( "Velka", "dog");
         System.out.println(dog);
 
+        Pets cat = new Pets("Garfield","cat");
+        System.out.println(cat);
+
     }
 }

@@ -20,5 +20,9 @@ public class Main {
         System.out.println(result);
         System.out.println(result2);
 
+
+        Car c1 = new Car("Honda", "Civic",2005);
+        System.out.println(c1);
+
     }
 }

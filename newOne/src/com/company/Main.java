@@ -11,9 +11,13 @@ public class Main {
 
 
         Person p1= new Person("Sam","Chicago");
+        Person p2 = new Person("Gwen", "London");
 
         String result = p1.greetings();
+        String result2 = p2.greetings();
+
 
         System.out.println(result);
+        System.out.println(result2);
     }
 }

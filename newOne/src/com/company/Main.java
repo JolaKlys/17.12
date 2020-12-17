@@ -24,5 +24,9 @@ public class Main {
         Car c1 = new Car("Honda", "Civic",2005);
         System.out.println(c1);
 
+
+        Pets dog = new Pets( "Velka", "dog");
+        System.out.println(dog);
+
     }
 }

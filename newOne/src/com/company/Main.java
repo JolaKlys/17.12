@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Do something");
 
         System.out.println("be brave ");
+
+
+        Person p1= new Person("Sam","Chicago");
     }
 }
